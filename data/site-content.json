@@ -1,0 +1,259 @@
+{
+  "brand": {
+    "name": "Flavio",
+    "nameHighlight": "Augusto",
+    "tagline": "Corretor de Imóveis"
+  },
+  "colors": {
+    "primary": "#1E5BD8",
+    "primaryHover": "#1849AE",
+    "primaryDark": "#0A204A",
+    "primaryBadge": "#1E5BD8",
+    "onPrimary": "#FFFFFF"
+  },
+  "nav": [
+    {
+      "label": "Imóveis",
+      "href": "/imoveis"
+    },
+    {
+      "label": "Sobre mim",
+      "href": "/#sobre"
+    },
+    {
+      "label": "Quero vender meu imóvel",
+      "href": "/#cadastro"
+    }
+  ],
+  "header": {
+    "faleConosco": "Fale comigo"
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=2000&q=80",
+    "titleLine1": "O imóvel certo em Jacareí e São José.",
+    "titleLine2": "Com quem fica do seu lado até a entrega das chaves.",
+    "cardBadge": "Imóvel em destaque",
+    "cardButton": "Ver imóvel",
+    "coverInterval": 7,
+    "ctaText": "Fale com o Flavio no WhatsApp"
+  },
+  "contact": {
+    "whatsapp": "5512991261912",
+    "phoneDisplay": "(12) 99126-1912",
+    "creci": "335884-F",
+    "creciLabel": "CRECI-SP",
+    "whatsappMessage": "Olá, Flavio! Vim pelo seu site e gostaria de falar sobre um imóvel.",
+    "email": "",
+    "instagram": "",
+    "facebook": "",
+    "city": "Jacareí"
+  },
+  "ribbon": [
+    {
+      "pre": "+",
+      "strong": "20 IMÓVEIS",
+      "post": "VENDIDOS"
+    },
+    {
+      "pre": "+",
+      "strong": "50 FAMÍLIAS",
+      "post": "ATENDIDAS"
+    },
+    {
+      "pre": "DO CONTRATO",
+      "strong": "ÀS CHAVES",
+      "post": "AO SEU LADO"
+    }
+  ],
+  "about": {
+    "photo": "/flavio-augusto.jpg",
+    "eyebrow": "Sobre o Flavio",
+    "title": "Quem cuida do seu imóvel",
+    "titleHighlight": "do primeiro contato às chaves",
+    "text": "Prazer, eu sou o Flavio Augusto, corretor da França Imobiliária (CRECI-SP 335884-F). Nasci e cresci em Jacareí, e foi minha mãe quem me trouxe para esse mercado, me mostrando que vender um imóvel é cuidar do sonho de uma família. Respondo rápido, te mostro o imóvel por chamada de vídeo se você não puder vir, analiso seus documentos para saber quanto você consegue financiar e fico do seu lado da assinatura até a entrega das chaves.",
+    "buttonText": "Falar com o Flavio",
+    "highlights": [
+      {
+        "value": "+20",
+        "label": "imóveis vendidos"
+      },
+      {
+        "value": "+50",
+        "label": "famílias atendidas"
+      },
+      {
+        "value": "100%",
+        "label": "do contrato às chaves"
+      }
+    ]
+  },
+  "featured": {
+    "heading": "Oportunidades",
+    "headingHighlight": "selecionadas",
+    "seeMore": "Ver todos"
+  },
+  "cities": {
+    "heading": "Especialista nos melhores bairros de",
+    "headingHighlight": "Jacareí e São José",
+    "groups": [
+      {
+        "city": "Jacareí",
+        "items": [
+          "Villa Branca",
+          "Jardim Califórnia",
+          "Jardim Santa Maria",
+          "Altos de Santana",
+          "Cidade Jardim",
+          "Centro"
+        ]
+      },
+      {
+        "city": "São José dos Campos",
+        "items": [
+          "Jardim Satélite",
+          "Jardim Aquarius",
+          "Urbanova",
+          "Jardim Esplanada"
+        ]
+      }
+    ]
+  },
+  "register": {
+    "headingLine1": "Quer vender seu imóvel?",
+    "headingLine2": "Cadastre agora e venda",
+    "headingHighlight": "com segurança",
+    "description": "Cadastre seu imóvel com o Flavio e conte com a estrutura da França Imobiliária: anúncio nos principais portais, fotos profissionais e acompanhamento até a escritura.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "formTitle": "Fale com o Flavio",
+    "formSubtitle": "Preencha seus dados que eu te chamo no WhatsApp",
+    "submitText": "Enviar",
+    "termsText": "Ao clicar em \"Enviar\", afirmo que li e concordo com os Termos de Uso e Política de Privacidade.",
+    "successTitle": "Recebido! 🎉",
+    "successText": "Obrigado pelo contato! Em breve o Flavio vai falar com você."
+  },
+  "footer": {
+    "aboutText": "Corretor de imóveis da França Imobiliária. Venda e lançamentos de alto padrão em Jacareí e São José dos Campos, com atendimento do primeiro contato à entrega das chaves.",
+    "attendanceTitle": "Atendimento",
+    "attendanceCity": "Jacareí / SP",
+    "attendanceRegion": "Jacareí, São José dos Campos e região",
+    "columns": [
+      {
+        "title": "Institucional",
+        "links": [
+          {
+            "label": "Sobre o Flavio",
+            "href": "/#sobre"
+          },
+          {
+            "label": "França Imobiliária",
+            "href": "https://www.francaimobiliaria.com.br/"
+          },
+          {
+            "label": "Política de Privacidade",
+            "href": "#"
+          },
+          {
+            "label": "Termos e Condições de Uso",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Aqui você encontra",
+        "links": [
+          {
+            "label": "Imóveis à venda em Jacareí",
+            "href": "/imoveis?cidade=Jacareí"
+          },
+          {
+            "label": "Imóveis à venda em SJC",
+            "href": "/imoveis?cidade=São José dos Campos"
+          },
+          {
+            "label": "Casas",
+            "href": "/imoveis?tipo=Casa"
+          },
+          {
+            "label": "Apartamentos",
+            "href": "/imoveis?tipo=Apartamento"
+          },
+          {
+            "label": "Lançamentos",
+            "href": "/imoveis"
+          }
+        ]
+      }
+    ]
+  },
+  "explore": {
+    "heading": "Explore por",
+    "headingHighlight": "categoria",
+    "items": [
+      {
+        "label": "Apartamentos",
+        "href": "/imoveis?tipo=Apartamento"
+      },
+      {
+        "label": "Casas",
+        "href": "/imoveis?tipo=Casa"
+      },
+      {
+        "label": "Terrenos",
+        "href": "/imoveis?tipo=Terreno"
+      },
+      {
+        "label": "Lançamentos",
+        "href": "/imoveis"
+      },
+      {
+        "label": "Cobertura",
+        "href": "/imoveis"
+      }
+    ]
+  },
+  "search": {
+    "cityLabel": "Cidade",
+    "operationLabel": "Operação",
+    "typeLabel": "Tipo de Imóvel",
+    "placeholder": "Digite o Bairro, o Condomínio ou o Código",
+    "buttonText": "Buscar"
+  },
+  "services": [
+    {
+      "title": "QUEM SOU",
+      "desc": "Conheça a minha história e o meu jeito de atender.",
+      "img": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=80",
+      "href": "/#sobre"
+    },
+    {
+      "title": "FINANCIAMENTO",
+      "desc": "Analiso seus documentos e mostro quanto você consegue financiar.",
+      "img": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80",
+      "href": "/#cadastro"
+    },
+    {
+      "title": "VISITA POR VÍDEO",
+      "desc": "Não pode vir? Te mostro o imóvel por chamada de vídeo.",
+      "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80",
+      "href": "/#cadastro"
+    },
+    {
+      "title": "LANÇAMENTOS",
+      "desc": "Os melhores lançamentos de Jacareí e SJC antes de todo mundo.",
+      "img": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?auto=format&fit=crop&w=900&q=80",
+      "href": "/imoveis"
+    },
+    {
+      "title": "DO CONTRATO ÀS CHAVES",
+      "desc": "Fico do seu lado da assinatura até a entrega das chaves.",
+      "img": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=900&q=80",
+      "href": "/#cadastro"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Flavio Augusto | Corretor de Imóveis em Jacareí e SJC",
+    "siteName": "",
+    "ogImage": "",
+    "description": "Casas e lançamentos de alto padrão em Jacareí e São José dos Campos. Atendimento rápido, visita por vídeo, análise de financiamento e acompanhamento do contrato à entrega das chaves. CRECI-SP 335884-F · França Imobiliária."
+  }
+}
