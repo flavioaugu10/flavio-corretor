@@ -1,0 +1,13 @@
+/node_modules
+/.next
+/out
+/build
+.env*.local
+npm-debug.log*
+.DS_Store
+
+# Contatos do formulário (dados pessoais — nunca versionar)
+/data/leads.json
+_backup-paula/
+preview-*.html
+PARA-UPLOAD-GITHUB/

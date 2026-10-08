@@ -25,7 +25,7 @@ export default function PropertySearch({ properties = [], cities = [], types = [
   const [areaMax, setAreaMax] = useState("");
   const [priceMin, setPriceMin] = useState("");
   const [priceMax, setPriceMax] = useState("");
-  const [sort, setSort] = useState("recent");
+  const [sort, setSort] = useState("price-asc");
   // Filtros começam RECOLHIDOS (o cliente vinha do anúncio e via só filtros). No mobile
   // aparecem via botão; no desktop ficam sempre visíveis na lateral (não empurram nada).
   const [showFilters, setShowFilters] = useState(false);
